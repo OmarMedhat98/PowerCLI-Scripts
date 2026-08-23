@@ -2,8 +2,8 @@
 My PowerCLI scripts for VMware automation.
 A collection of VMware PowerCLI scripts for automated deployment, configuration, and management of enterprise virtual infrastructure and Active Directory environments.
 
-🚀 Current Scripts
-📍 Active Directory + Additional Domain Controller Deployment in parallel
+* Current Scripts
+- Active Directory + Additional Domain Controller Deployment in parallel
 
 Description: Automates the end-to-end installation and promotion of Primary Domain Controllers (DC) and Additional Domain Controllers (ADC) on Windows Server infrastructure.
 
